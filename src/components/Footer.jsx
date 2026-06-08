@@ -12,7 +12,7 @@ export default function Footer() {
       <div className="container-page grid gap-10 py-12 lg:grid-cols-[1.4fr_2fr_1.2fr]">
         <div>
           <div className="flex items-center gap-3">
-            <div className="flex h-11 w-11 items-center justify-center rounded-2xl bg-gradient-to-br from-violet-700 via-fuchsia-600 to-amber-400 text-sm font-bold text-white">IF</div>
+            <div className="flex h-11 w-11 items-center justify-center rounded-2xl bg-gradient-to-br from-violet-700 via-fuchsia-600 to-amber-400 text-sm font-bold text-white">ITS</div>
             <div>
               <div className="text-lg font-semibold text-slate-950">InfinTrend AI</div>
               <div className="text-sm text-slate-500">AI-native systems for real operations.</div>

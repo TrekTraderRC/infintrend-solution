@@ -19,7 +19,7 @@ export default function Navbar() {
     <header className="sticky top-0 z-50 border-b border-slate-200/80 bg-white/82 backdrop-blur-xl">
       <div className="container-page flex h-[72px] items-center justify-between">
         <Link to="/" className="flex items-center gap-3" onClick={() => setOpen(false)}>
-          <div className="flex h-10 w-10 items-center justify-center rounded-2xl bg-gradient-to-br from-violet-700 via-fuchsia-600 to-amber-400 text-sm font-bold text-white shadow-lg shadow-fuchsia-900/20">IF</div>
+          <div className="flex h-10 w-10 items-center justify-center rounded-2xl bg-gradient-to-br from-violet-700 via-fuchsia-600 to-amber-400 text-sm font-bold text-white shadow-lg shadow-fuchsia-900/20">ITS</div>
           <div>
             <div className="font-semibold tracking-tight text-slate-950">InfinTrend AI</div>
             <div className="text-xs text-slate-500">Strategy · Systems · Automation</div>

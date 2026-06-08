@@ -33,21 +33,6 @@ npm run preview
 
 The production build will be generated in the `dist` folder.
 
-## Formspree Setup
-
-Open:
-
-```bash
-src/pages/Contact.jsx
-```
-
-Replace:
-
-```js
-const FORMSPREE_ENDPOINT = 'https://formspree.io/f/YOUR_FORM_ID'
-```
-
-with your real Formspree endpoint.
 
 ## Main Pages
 
