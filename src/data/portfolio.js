@@ -1,5 +1,22 @@
 export const portfolio = [
   {
+    id: 'alnair-energy',
+    title: 'Alnair Energy',
+    category: 'AI-Native Energy Infrastructure',
+    image: '/images/portfolio/cards/alnair-energy.png',
+    detailImage: '/images/portfolio/details/alnair-energy-detail.png',
+    link: 'https://www.alnairenergy.com/',
+    status: 'Flagship project / active build',
+    description:
+      'An AI-native energy infrastructure project focused on distributed energy planning, ESG data workflows, asset operations, and long-term sustainable system intelligence.',
+    details: [
+      'Transforms site, asset, and operational inputs into structured energy planning and management workflows.',
+      'Connects ESG data, equipment records, maintenance activity, and operational dashboards into one AI-assisted system.',
+      'Acts as our flagship vertical AI infrastructure project and a proof point for building real systems beyond generic AI consulting.',
+    ],
+    tags: ['Energy AI', 'ESG Intelligence', 'Asset operations', 'Infrastructure'],
+  },
+  {
     id: 'resonaloop',
     title: 'ResonaLoop',
     category: 'Sustainable AI Infrastructure',
@@ -84,26 +101,17 @@ export const portfolio = [
     ],
     tags: ['Knowledge base', 'Documents', 'RAG', 'Operations'],
   },
-  {
-    id: 'vibe-coding-projects',
-    title: 'Vibe Coding Projects',
-    category: 'Rapid AI Product Prototyping',
-    image: '/images/portfolio/cards/vibe-coding.png',
-    detailImage: '/images/portfolio/details/vibe-coding-detail.png',
-    link: '#',
-    status: 'Ongoing project stream',
-    description:
-      'A collection of fast-built AI-assisted prototypes, web tools, demos, dashboards, and internal experiments used to validate ideas before full product investment.',
-    details: [
-      'Uses AI-assisted coding workflows to move from concept to interactive prototype quickly.',
-      'Useful for founders and operators who need to test product logic, user journeys, dashboards, and workflow interfaces before committing to a large build.',
-      'Demonstrates a practical delivery style: prototype fast, validate, then harden the parts that create real business value.',
-    ],
-    tags: ['Rapid prototype', 'AI coding', 'Dashboards', 'MVP'],
-  },
 ]
 
 export const projectArchive = [
+  {
+    id: 'archive-alnair-energy',
+    title: 'Alnair Energy',
+    category: 'AI-Native Energy Infrastructure',
+    status: 'Flagship project / active build',
+    capabilities: ['Energy AI', 'ESG data', 'Asset operations', 'Dashboard'],
+    link: 'https://www.alnairenergy.com/',
+  },
   {
     id: 'archive-resonaloop',
     title: 'ResonaLoop',

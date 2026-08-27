@@ -51,8 +51,11 @@ export default function Portfolio() {
               Featured Systems
             </p>
             <h2 className="max-w-4xl text-3xl font-semibold tracking-tight text-slate-950 md:text-4xl">
-              Six selected examples of what we can design and build.
+              Flagship systems and venture concepts we are building.
             </h2>
+            <p className="mt-4 max-w-3xl text-base leading-7 text-slate-600">
+              Led by Alnair Energy, our portfolio shows how we turn AI strategy into real operating systems across energy, finance, infrastructure, knowledge work, and digital networks.
+            </p>
           </div>
 
           <div className="grid gap-7 md:grid-cols-2 xl:grid-cols-3">
